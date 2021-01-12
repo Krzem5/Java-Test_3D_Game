@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Krzem
+Main-Class: com.krzem.test_3d_game.Main
+Class-Path: src/com/krzem/test_3d_game/modules/jogl-all.jar;src/com/krzem/test_3d_game/modules/jogl-all-natives-windows-i586.jar;src/com/krzem/test_3d_game/modules/gluegen-rt.jar;src/com/krzem/test_3d_game/modules/gluegen-rt-natives-windows-i586.jar
